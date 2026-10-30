@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/sasamegoto",
  "yomi": "ささめごと",
  "category": "歌学書",
- "description": null,
+ "description": {
+  "kind": "連歌論書",
+  "era": "寛正4年（1463）頃",
+  "author": "心敬",
+  "desc": "心敬が郷里紀伊の田井荘で、連歌を学ぶ人々の求めに応じて書いた連歌論。問答の形で連歌の心得を説き、和歌・連歌を仏道と重ねて論じる。のちに増補・改編されたため異本が多い。"
+ },
  "editions": [
   {
    "pid": "1879527",
@@ -358,6 +363,6 @@
   "poems": 0,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:23:03+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
